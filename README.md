@@ -28,8 +28,10 @@ que no quieren pagar por HubSpot o Salesforce.
 ## 📸 Demo
 
 ![Clientes con colores](screenshots/01-hoja-clientes-colores.png)
+![Panel](screenshots/01.5-hoja-clientes-colores.png)
 ![Dashboard](screenshots/02-dashboard-kpis.png)
-![Seguimientos](screenshots/04-hoja-seguimientos.png)
+![Seguimientos](screenshots/03-hoja-seguimientos.png)
+![Alertas](screenshots/04-Registro-Alertas.png)
 ![Correo alerta](screenshots/05-correo-alerta.png)
 
 ---
